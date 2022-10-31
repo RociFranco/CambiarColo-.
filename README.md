@@ -3,4 +3,4 @@
 
 Al apretar **Cambiar Color** se cambia el color del fondo de la pagina
 
-* Efecto de cambiar de color el fondo, se utilizo JavaScript. Estilo de boton, con CSS *
+*Efecto de cambiar de color el fondo, se utilizo JavaScript. Estilo de boton, con CSS*
